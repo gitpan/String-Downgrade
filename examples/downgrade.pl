@@ -37,7 +37,7 @@ __END__
 
 =head1 NAME
 
-downgrade.pl - Amharic downgrade demonstrator for 5 sample words.
+downgrade.pl - Amharic downgrade demonstrator for 5 sample words (OO Usage).
 
 =head1 SYNOPSIS
 

@@ -35,7 +35,7 @@ __END__
 
 =head1 NAME
 
-functional.pl - Amharic downgrade demonstrator for 5 sample words.
+functional.pl - Amharic downgrade demonstrator for 5 sample words (Functional Usage).
 
 =head1 SYNOPSIS
 

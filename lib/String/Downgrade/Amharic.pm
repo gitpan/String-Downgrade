@@ -12,7 +12,7 @@ BEGIN
 	use base qw( Exporter );
 	use vars qw( $VERSION @EXPORT %HaMaps );
 
-	$VERSION = '0.02';
+	$VERSION = "0.03";
 
 	@EXPORT = qw( &downgrade );
 
