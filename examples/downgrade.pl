@@ -51,7 +51,7 @@ usage of the OO interface to the L<String::Downgrade::Amharic> package.
 
 =head1 AUTHOR
 
-Daniel Yacob,  L<Yacob@EthiopiaOnline.Net|mailto:Yacob@EthiopiaOnline.Net>
+Daniel Yacob,  L<dyacob@cpan.org|mailto:dyacob@cpan.org>
 
 =head1 SEE ALSO
 

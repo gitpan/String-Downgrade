@@ -8,12 +8,12 @@ WriteMakefile(
 	NAME		=> 'String-Downgrade-Amharic',
 	DISTNAME	=> 'String-Downgrade',
 	VERSION_FROM	=> 'lib/String/Downgrade/Amharic.pm',
-	AUTHOR  	=> "Daniel Yacob <Yacob\@EthiopiaOnline.Net>",
-	ABSTRACT	=> "Generate Acceptable Spellings from Canonical.",
-
 	dist			=>	{
 		COMPRESS        =>	"gzip -9f",
 		SUFFIX          =>	"gz",
 		POSTOP          =>	'mv $(DISTNAME)-$(VERSION).tar.gz ../'
-	}
+	},
+	AUTHOR  	=> "Daniel Yacob <dyacob\@cpan.org>",
+	ABSTRACT	=> "Generate Acceptable Spellings from Canonical.",
+	PREREQ_PM 	=> { 'Regexp::Ethiopic' => 0.09 }
 );
